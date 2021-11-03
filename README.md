@@ -7,3 +7,4 @@ DAREKITA (ダレキタ) app
 
 Dajango Rest Framework と Adalo(Nocodetool)で作成
 
+作成者(inoue, kawakami)
